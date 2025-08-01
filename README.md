@@ -38,7 +38,7 @@
 ### 📫 Contact
 
 📧 Email: **ritikmahour123@gmail.com**  
-🌐 GitHub: [**ritik-mahaur-ui**](https://github.com/ritik-mahaur-ui)
+🌐 GitHub: [**RitikMahaur-ui**](https://github.com/RitikMahaur-ui/RitikMahaur-ui/edit/main/README.md)
 
 ---
 
