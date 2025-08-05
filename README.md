@@ -35,6 +35,11 @@
 
 📧 Email: **ritikmahour123@gmail.com**  
 🌐 GitHub: [**RitikMahaur-ui**](https://github.com/RitikMahaur-ui/RitikMahaur-ui/edit/main/README.md)
+---
+
+### 🔗 Connect with me:
+- [Twitter/X](https://x.com/mahour_ritik)
+- [Instagram](https://instagram.com/mahour.ritik)
 
 ---
 
