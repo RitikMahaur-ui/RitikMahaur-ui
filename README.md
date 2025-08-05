@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Mahaur</h1>
-<h3 align="center">An enthusiastic AI/ML & Full Stack Developer passionate about building impactful solutions</h3>
+<h3 align="center">Full Stack Developer passionate about building impactful solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75590&center=true&vCenter=true&width=435&lines=Code.+Learn.+Contribute.;AI+%2B+Web+%3D+Future+Ready.;Write+Clean+Code+%F0%9F%94%A8;Build+Impactful+Real-World+Projects" alt="Typing SVG" />
@@ -28,10 +28,12 @@
 
 ### 💡 Currently Exploring
 
-- Hands-on AI/ML projects (classification, prediction, automation)
-- Frontend & backend app development
-- Open-source contributions
-- Real-world problem solving using Python and JavaScript
+- Web development (React, Node.js, Django)
+- Browser automation frameworks (Selenium, Playwright)
+- End-to-end testing strategies
+- CI/CD pipelines (GitHub Actions, Docker basics)
+- Building efficient scripts for task automation
+- Real-world problem solving using c++, Python and JavaScript
 
 ---
 
